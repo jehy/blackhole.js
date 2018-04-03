@@ -5,6 +5,8 @@ blackHole.js
 
 [![Blackhole.js](http://i.imgur.com/6d588zV.png)](http://codepen.io/artzub/pen/vcfyd)
 ![Analytics](https://ga-beacon.appspot.com/UA-28343295-16/blackhole.js/readme?pixel)
+
+
 This library is child of two projects:  
 * [WorldBank Contract Awards](http://d3.artzub.com/wbca/)
 * [GitHub Visualizer](http://artzub.com/ghv)
@@ -33,6 +35,7 @@ Depends on [D3js](http://d3js.org)
 - [For developers](#fd)
 
 <a name="qe" />
+
 ## Quick Examples
   
 
@@ -117,6 +120,7 @@ d3bh.on('calcRightBound', function(l) {
 ```
 
 <a name="api" />
+
 ## Documentation
 
 For creation instance of the `blackHole` object, need call method of the d3js object
@@ -435,6 +439,7 @@ Most of the methods returning `blackHole` object in order to use chain.
 ### Category object
 
 <a name="fd" />
+
 ## For developers
 
 If you want to modify `blackHole.js`, click the "Fork" button in the top-right corner of this page, and then clone your fork from the command line by replacing username with your GitHub username:
